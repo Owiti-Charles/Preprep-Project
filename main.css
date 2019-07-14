@@ -24,7 +24,6 @@ nav{
     height: 70px;
     margin-top: 10px;
     position: sticky;
-    position:-webkit-sticky;
     top: 0;
  }
  .logo img{
